@@ -1,2 +1,6 @@
 /.idea/
 /target/
+/external/test-data/photos/
+/external/resume-db.sql
+/src/main/webapp/media/
+/external/test-data/certificates/
